@@ -11,7 +11,7 @@ const PleaseSignIn = (props) => {
           return (
             <div>
               <p>Please sign in before continuing</p>
-              <Signin />
+              <SignIn />
             </div>
           );
         }
